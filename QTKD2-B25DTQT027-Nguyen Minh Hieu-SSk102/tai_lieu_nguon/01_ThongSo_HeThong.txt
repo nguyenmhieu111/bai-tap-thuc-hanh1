@@ -1,0 +1,13 @@
+[THÔNG SỐ PHẦN CỨNG THIẾT BỊ LÀM VIỆC]
+- Họ và tên sinh viên: Nguyễn Minh Hiếu | Mã sinh viên: [Điền MSSV của bạn] | Lớp: QTKD2
+- Tên và thế hệ vi xử lý (CPU): [Ví dụ: Intel Core i5 12th Gen]
+- Dung lượng bộ nhớ RAM vật lý: [Ví dụ: 8] GB
+- Dung lượng ổ cứng còn trống (Ổ C:): [Ví dụ: 120] GB
+- Tên và phiên bản hệ điều hành: [Ví dụ: Windows 11 Pro]
+
+[QUẢN TRỊ TIẾN TRÌNH KHỞI ĐỘNG]
+- Các ứng dụng đã vô hiệu hóa chạy ngầm: Spotify, Zalo, Microsoft Teams
+
+[KỸ THUẬT TRA CỨU HỌC THUẬT]
+- Cú pháp tìm kiếm đã sử dụng: "Tin học ứng dụng" site:edu.vn filetype:pdf
+- Tên tệp tài liệu PDF đã tải về thành công: 01_TaiLieuNghienCuu_GiaoTrinh_v1.0.pdf
